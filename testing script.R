@@ -3,5 +3,6 @@
 library(tidyverse)
 library(gtsummary)
 
-trial |> 
-  tbl_summary()
+trial
+
+# bceause Aaron told me 
